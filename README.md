@@ -1,6 +1,5 @@
 
 ## Park Da Been
-![dabeenstatus](https://github-readme-stats.vercel.app/api?username=elqla&show_icons=true&theme=transparent)
 ![dabeenstatus](https://github-readme-stats.vercel.app/api/top-langs/?username=elqla&layout=compact&bg_color=00000000)
 
 ## ⚒️ Skills
