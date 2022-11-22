@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/NextJs-black?style=flat-square&logo=Next.js&logoColor=white"/>
   </div>
   <div>
-    <p style="display: none">https://simpleicons.org/?q=next</p>
+    <p style="display: none;">https://simpleicons.org/?q=next</p>
   </div>
   <br />
   <div style="display: flex; flex-direction: row; width: 100%; align-items: center; justify-content:center; gap: 2rem; ">
