@@ -5,8 +5,8 @@
 ## ⚒️ Skills
 ### Platforms & Languages
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![ReactNative)(https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![NextJs](https://img.shields.io/badge/NextJs-black?style=flat-square&logo=Next.js&logoColor=white)
+![ReactNative](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+- ![NextJs](https://img.shields.io/badge/NextJs-black?style=flat-square&logo=Next.js&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)
