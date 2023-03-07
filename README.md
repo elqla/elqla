@@ -18,4 +18,4 @@
 ![VsCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
  
 ## 📧 Contacts
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:elqla19@naver.com)](mailto:elqla19@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dabeenp22@gmail.com)](mailto:dabeenp22@gmail.com)
